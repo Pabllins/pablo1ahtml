@@ -1,7 +1,16 @@
+header{
+        background: blue;
+}
+nav li{
+        display: inline;
+}
 p{
         text-align: center;
        }
      
        h3{
         color: blue; front size
+       }
+       strong{
+        color: red;
        }
